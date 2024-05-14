@@ -30,7 +30,7 @@ Generate plausible background images based on surroundings (background unknown).
 - Postprocessing methods that smooth real-virtual boundaries.
 
 ## Use Cases
-[Task Enhancement](https://arxiv.org/pdf/2403.03875)
+[Task Enhancement: Occlusion and Replacing](https://arxiv.org/pdf/2403.03875)
 - Clutter Management
 - Search
 - Privacy Protection
@@ -42,5 +42,5 @@ Generate plausible background images based on surroundings (background unknown).
 
 ## Useful Sites
 - [OpenCV for HoloLens](https://github.com/iseta/UnityAndOpenCV/tree/main)
-- [LabAssistVision: Using CustomVision AI by Azure]([https://github.com/iseta/UnityAndOpenCV/tree/main](https://github.com/cookieofcode/LabAssistVision))
+- [LabAssistVision: Using CustomVision AI by Azure](https://github.com/cookieofcode/LabAssistVision)
 - [HololensForCV](https://github.com/Microsoft/HoloLensForCV)
